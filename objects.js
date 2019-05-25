@@ -1,4 +1,4 @@
-var playList = {[artistName]: songTitle};
+var playList = {artistName: songTitle};
 var artistName = "Jeff"
 var songTitle = "Buckley"
 
