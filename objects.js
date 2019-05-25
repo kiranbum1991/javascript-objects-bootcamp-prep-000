@@ -1,2 +1,6 @@
-var playList = {1: 'is the loneliest number'}
+var playList = {artistName: songTitle};
+var artistName = []
+var songTitle = []
+
+function 
  
