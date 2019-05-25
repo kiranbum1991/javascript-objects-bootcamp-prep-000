@@ -1,6 +1,8 @@
 var playList = {artistName: songTitle};
-var artistName = []
-var songTitle = []
+var artistName = "Jeff"
+var songTitle = "Buckley"
 
-function 
+function updatePlaylist (playList, artistName, songTitle) {
+  playList.artistName = songTitle;
+}
  
