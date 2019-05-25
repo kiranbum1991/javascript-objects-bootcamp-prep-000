@@ -1,3 +1,3 @@
 var playList = {};
-var playList = new Object({guns: "roses"});
+var playList = new Object({guns: 'roses'});
  
