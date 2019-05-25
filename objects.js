@@ -5,7 +5,8 @@ var playlist = {guns: "roses"};
 //Create a function updatePlaylist that accepts three parameters: the playlist (an object), an artist name (a string), and a song title. The body of the function should add the song and artist as a key-value pair to the playlist object. The function should return the whole playlist.
 
 function updatePlaylist(obj, key, value) {
- return Object.assign({}, obj, {[key]: value })
+ playlist.assign({}, obj, {[key]: value })
+ return playlist;
 }
 
 
